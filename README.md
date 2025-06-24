@@ -24,7 +24,7 @@ pip install numpy matplotlib scikit-learn
 ### 2. Run the application:
 
 ```bash
-python app.py
+python main.py
 ```
 
 ### 3. Choose from the menu:
