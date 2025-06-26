@@ -1,10 +1,10 @@
-# 📈 Salary Prediction - Linear Regression
+# Salary Prediction - Linear Regression
 
 This project uses **Linear Regression** to predict a person's salary based on their years of experience. It is built using Python and leverages libraries such as `numpy`, `scikit-learn`, and `matplotlib`.
 
 ---
 
-## 🔍 Features
+## Features
 
 - Predict salary using Linear Regression  
 - Calculate MAE (Mean Absolute Error) and MSE (Mean Squared Error)  
@@ -13,7 +13,7 @@ This project uses **Linear Regression** to predict a person's salary based on th
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Install required libraries:
 
@@ -40,23 +40,23 @@ Menu:
 
 ---
 
-## 📊 Example Visualizations
+## Example Visualizations
 
-> 🎯 Predicted salary:
+> Predicted salary:
 
 ![prediction](visualizations/prediction.png)
 
-> ❌ MSE (Mean Squared Error):
+> MSE (Mean Squared Error):
 
 ![MSE](visualizations/MSE.png)
 
-> ⚠️ MAE (Mean Absolute Error):
+> MAE (Mean Absolute Error):
 
 ![MAE](visualizations/MAE.png)
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - numpy  
 - matplotlib  
